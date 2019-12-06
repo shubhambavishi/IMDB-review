@@ -1,0 +1,1 @@
+This .ipynb is for movie review of IMDB dataset. I applied LSTM to predict whether the comment is positive or negative. In future, i would likely do full implementation of this review classifier as web-site... so, stay tuned for that!!
